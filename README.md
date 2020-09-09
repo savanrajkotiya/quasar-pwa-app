@@ -1,6 +1,4 @@
-# first-quasar (quasar-starter)
-
-my first quasar app
+# quasar-pwa-app
 
 ## Install the dependencies
 ```bash
